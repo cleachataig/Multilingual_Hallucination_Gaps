@@ -1,0 +1,489 @@
+code,name,instance,citizenship,language,birth_place,birth_date,death_date,gender,occupation
+Q302,Jesus,human biblical figure,Herodian Kingdom of Judea,"['Galilean dialect', 'Biblical Hebrew', 'Koine Greek', 'Aramaic languages']",Bethlehem,,,male,preacher
+Q303,Elvis_Presley,human,United States of America,['English'],Tupelo,1935-01-08,1977-08-16,male,film actor
+Q307,Galileo_Galilei,human,Duchy of Florence,"['Latin', 'Italian']",Pisa,,1642-01-08,male,astronomer
+Q329,Nicolas_Sarkozy,human,France,['French'],Paris,1955-01-28,,male,politician
+Q352,Adolf_Hitler,human,Cisleithania,"['Austrian German', 'German']",Braunau am Inn,1889-04-20,1945-04-30,male,politician
+Q360,Julian_Assange,human,Australia,['English'],Townsville,1971-07-03,,male,Internet activist
+Q392,Bob_Dylan,human,United States of America,['English'],Duluth,1941-05-24,,male,songwriter
+Q410,Carl_Sagan,human,United States of America,['English'],Brooklyn,1934-11-09,1996-12-20,male,cosmologist
+Q409,Bob_Marley,human,Jamaica,"['English', 'Jamaican Patois']",Gullegem,1945-02-06,1981-05-11,male,singer-songwriter
+Q444,Lech_Wa%C5%82%C4%99sa,human,Poland,['Polish'],Popowo,1943-09-29,,male,politician
+Q517,Napoleon,human,French First Republic,"['French', 'Corsican']",Ajaccio,1769-08-15,1821-05-05,male,politician
+Q529,Louis_Pasteur,human,France,['French'],Dole,1822-12-27,1895-09-28,male,microbiologist
+Q535,Victor_Hugo,human,France,['French'],Besançon,1802-02-26,1885-05-22,male,politician
+Q567,Angela_Merkel,human,Germany,"['German', 'English', 'Russian']",Eimsbüttel,1954-07-17,,female,politician
+Q615,Lionel_Messi,human,Argentina,"['Spanish', 'Argentine Spanish']",Rosario,1987-06-24,,male,association football player
+Q619,Nicolaus_Copernicus,human,Kingdom of Poland,"['Renaissance Latin', 'Middle Polish', 'Middle Low German', 'Greek', 'Latin', 'Polish']",Toruń,,,male,astronomer
+Q635,Cleopatra,human,Ptolemaic Kingdom,"['Koine Greek', 'Egyptian', 'Aramaic languages', 'Meroitic', 'Latin', 'Syriac', 'Old Arabic', 'Median', 'Parthian']",Alexandria,,,female,sovereign
+Q675,Andr%C3%A9-Marie_Amp%C3%A8re,human,France,"['Ancient Greek', 'Latin', 'French']",Lyon,1775-01-20,1836-06-10,male,physicist
+Q680,Alessandro_Volta,human,Duchy of Milan,"['Italian', 'Latin', 'Colombiano']",Como,1745-02-18,1827-03-05,male,physicist
+Q687,Moli%C3%A8re,human,Kingdom of France,['French'],Paris,,1673-02-17,male,playwright
+Q692,William_Shakespeare,human,Kingdom of England,"['Early Modern English', 'British English', 'English']",Stratford-upon-Avon,,,male,playwright
+Q720,Genghis_Khan,human,Mongol Empire,[],Delüün Boldog,,,male,military leader
+Q762,Leonardo_da_Vinci,human,Republic of Florence,['Italian'],Anchiano,,,male,painter
+Q23,George_Washington,human,Kingdom of Great Britain,['English'],Westmoreland County,1732-02-22,1799-12-14,male,politician
+Q76,Barack_Obama,human,United States of America,"['English', 'Indonesian']",Kapiolani Medical Center for Women and Children,1961-08-04,,male,politician
+Q80,Tim_Berners-Lee,human,United Kingdom,['English'],London,1955-06-08,,male,computer scientist
+Q91,Abraham_Lincoln,human,United States of America,['English'],Sinking Spring Farm,1809-02-12,1865-04-15,male,politician
+Q157,Fran%C3%A7ois_Hollande,human,France,['French'],Rouen,1954-08-12,,male,statesperson
+Q207,George_W._Bush,human,United States of America,"['English', 'Spanish']",New Haven,1946-07-06,,male,politician
+Q254,Wolfgang_Amadeus_Mozart,human,Archbishopric of Salzburg,"['German', 'Italian', 'English', 'French', 'Latin']",Salzburg,1756-01-27,1791-12-05,male,composer
+Q255,Ludwig_van_Beethoven,human,Electorate of Cologne,['German'],Bonn,1770-12-16,1827-03-26,male,composer
+Q855,Joseph_Stalin,human,Russian Empire,"['Georgian', 'Russian']",Gori,,1953-03-05,male,politician
+Q859,Plato,human,Classical Athens,['Ancient Greek'],Athens,,,male,philosopher
+Q868,Aristotle,human,,['Ancient Greek'],Stageira,,,male,philosopher
+Q873,Meryl_Streep,human,United States of America,['English'],Summit,1949-06-22,,female,film actor
+Q882,Charlie_Chaplin,human,United Kingdom of Great Britain and Ireland,['English'],Walworth,1889-04-16,1977-12-25,male,film director
+Q892,J._R._R._Tolkien,human,United Kingdom,"['English', 'Old English', 'Latin', 'Quenya', 'Sindarin', 'Khuzdûl', 'Esperanto']",Bloemfontein,1892-01-03,1973-09-02,male,linguist
+Q905,Franz_Kafka,human,Cisleithania,"['German', 'Czech']",Prague,1883-07-03,1924-06-03,male,novelist
+Q913,Socrates,human,Classical Athens,['Ancient Greek'],Alopeke,,,male,philosopher
+Q926,Roald_Amundsen,human,Norway,['Norwegian'],Borge Municipality,1872-07-16,1928-06-18,male,explorer
+Q935,Isaac_Newton,human,Kingdom of England,"['Latin', 'English']",Woolsthorpe Manor,,,male,mathematician
+Q937,Albert_Einstein,human,German Empire,"['German', 'English']",Ulm,1879-03-14,1955-04-18,male,physicist
+Q991,Fyodor_Dostoevsky,human,Russian Empire,['Russian'],Moscow,,,male,translator
+Q1001,Mahatma_Gandhi,human,India,"['Gujarati', 'Hindi', 'English', 'Odia']",Porbandar,1869-10-02,1948-01-30,male,politician
+Q1035,Charles_Darwin,human,United Kingdom of Great Britain and Ireland,['English'],The Mount,1809-02-12,1882-04-19,male,geologist
+Q1043,Carl_Linnaeus,human,Sweden,"['Latin', 'Swedish']",Råshult,1707-05-23,1778-01-10,male,geologist
+Q1047,Jawaharlal_Nehru,human,British Raj,"['English', 'Hindi']",Prayagraj,1889-11-14,1964-05-27,male,writer
+Q1048,Julius_Caesar,human,Ancient Rome,"['Latin', 'Ancient Greek']",Rome,,,male,orator
+Q1058,Narendra_Modi,human,India,"['English', 'Gujarati', 'Sanskrit', 'Punjabi', 'Bangla']",Vadnagar,1950-09-17,,male,politician
+Q1067,Dante_Alighieri,human,Republic of Florence,"['Italian', 'Latin']",Florence,,,male,poet
+Q1124,Bill_Clinton,human,United States of America,['English'],Hope,1946-08-19,,male,politician
+Q1149,Indira_Gandhi,human,India,"['Hindi', 'English']",Prayagraj,1917-11-19,1984-10-31,female,politician
+Q1203,John_Lennon,human,United Kingdom,['English'],Liverpool Maternity Hospital,1940-10-09,1980-12-08,male,record producer
+Q1254,Kofi_Annan,human,Ghana,"['English', 'French', 'Akan']",Kumasi,1938-04-08,2018-08-18,male,diplomat
+Q1253,Ban_Ki-moon,human,South Korea,"['English', 'Korean', 'French']",Eumseong County,1944-06-13,,male,politician
+Q1268,Fr%C3%A9d%C3%A9ric_Chopin,human,France,"['French', 'Polish']",Żelazowa Wola,1810-03-01,1849-10-17,male,composer
+Q1290,Blaise_Pascal,human,Kingdom of France,"['Latin', 'French']",birth house of Blaise Pascal,1623-06-19,1662-08-19,male,mathematician
+Q1316,Saddam_Hussein,human,Kingdom of Iraq,['Arabic'],Al-Awja,1937-04-28,2006-12-30,male,politician
+Q1317,Osama_bin_Laden,human,Saudi Arabia,"['English', 'Arabic', 'Pashto']",Riyadh,1957-03-10,2011-05-02,male,jihadist
+Q1339,Johann_Sebastian_Bach,human,Saxe-Eisenach,"['German', 'Italian', 'Latin']",Eisenach,,1750-07-28,male,composer
+Q1394,Vladimir_Lenin,human,Soviet Union,"['Russian', 'French', 'English', 'German']",Ulyanovsk,,1924-01-21,male,politician
+Q1398,Virgil,human,Ancient Rome,['Latin'],Andes,,,male,poet
+Q1399,Niccol%C3%B2_Machiavelli,human,Republic of Florence,"['Italian', 'Tuscan']",Florence,,,male,writer
+Q1405,Augustus,human,Ancient Rome,['Latin'],Rome,,,male,Ancient Roman politician
+Q1413,Nero,human,Ancient Rome,['Latin'],Antium,,,male,poet
+Q1426,Roger_Federer,human,Switzerland,"['French', 'English', 'German', 'Swiss German']",Basel,1981-08-08,,male,tennis player
+Q1480,Corazon_Aquino,human,Philippines,"['English', 'Tagalog']",Paniqui,1933-01-25,2009-08-01,female,politician
+Q1496,Ferdinand_Magellan,human,Kingdom of Portugal,"['Italian', 'Portuguese', 'Spanish']",Ponte da Barca,,,male,explorer
+Q1511,Richard_Wagner,human,Kingdom of Saxony,['German'],Leipzig,1813-05-22,1883-02-13,male,composer
+Q1615,Neil_Armstrong,human,United States of America,['English'],Wapakoneta,1930-08-05,2012-08-25,male,United States Naval Aviator
+Q1744,Madonna,human,United States of America,['English'],Bay City,1958-08-16,,female,singer
+Q1779,Louis_Armstrong,human,United States of America,['English'],New Orleans,1901-08-04,1971-07-06,male,actor
+Q1835,Zinedine_Zidane,human,France,"['Spanish', 'Italian', 'French', 'Arabic', 'Kabyle']",16th arrondissement of Marseille,1972-06-23,,male,association football player
+Q1911,Olivier_Giroud,human,France,['French'],Chambéry,1986-09-30,,male,association football player
+Q1912,Karim_Benzema,human,France,['French'],Lyon,1987-12-19,,male,association football player
+Q2042,Charles_de_Gaulle,human,France,['French'],Lille,1890-11-22,1970-11-09,male,statesperson
+Q2263,Tom_Hanks,human,United States of America,['English'],Concord,1956-07-09,,male,film actor
+Q2339,Robin_van_Persie,human,Kingdom of the Netherlands,['Dutch'],Rotterdam,1983-08-06,,male,association football player
+Q2494,Pope_Benedict_XVI,human,Germany,"['German', 'Latin', 'Italian', 'French', 'English', 'Spanish']",Birth house of Benedict XVI,1927-04-16,2022-12-31,male,Latin Catholic priest
+Q2685,Arnold_Schwarzenegger,human,Austria,"['German', 'English', 'Austrian German']",Thal,1947-07-30,,male,actor
+Q2831,Michael_Jackson,human,United States of America,"['American English', 'English']",Gary,1958-08-29,2009-06-25,male,dancer
+Q3044,Charlemagne,human,Francia,"['Latin', 'Greek', 'Frankish']",Francia,,,male,monarch
+Q4235,Miley_Cyrus,human,United States of America,['English'],Nashville,1992-11-23,,genderfluid,singer-songwriter
+Q4547,Daniel_Craig,human,United Kingdom,['English'],Chester,1968-03-02,,male,television actor
+Q4573,Sean_Connery,human,United Kingdom,['English'],Fountainbridge,1930-08-25,2020-10-31,male,film actor
+Q4583,Anne_Frank,human,Nazi Germany,"['Dutch', 'German']",Maingau Clinic of the Red Cross,1929-06-12,,female,diarist
+Q4604,Confucius,human,Lu,"['Old Chinese', 'Chinese']",Qufu,,,male,philosopher
+Q4605,Sarah_Bernhardt,human,France,"['French', 'English']",Paris,1844-10-23,1923-03-26,female,stage actor
+Q4616,Marilyn_Monroe,human,United States of America,['English'],Los Angeles,1926-06-01,1962-08-04,female,film actor
+Q4617,Corbin_Bleu,human,United States of America,['English'],Brooklyn,1989-02-21,,male,television actor
+Q4724,Le_Corbusier,human,Switzerland,['French'],La Chaux-de-Fonds,1887-10-06,1965-08-27,male,architect
+Q4934,Larry_Page,human,United States of America,['English'],East Lansing,1973-03-26,,male,entrepreneur
+Q5152,Mustafa_Kemal_Atat%C3%BCrk,human,Turkey,"['Turkish', 'Ottoman Turkish', 'French']",Thessaloniki,1881,1938-11-10,male,politician
+Q5208,Huang_Xianfan,human,People's Republic of China,['Chinese'],Fusui County,1899-11-13,1982-01-18,male,anthropologist
+Q5264,Hippocrates,human,,['Ancient Greek'],Kos,,,male,physician
+Q5284,Bill_Gates,human,United States of America,['English'],Seattle,1955-10-28,,male,entrepreneur
+Q5383,David_Bowie,human,United Kingdom,['English'],Brixton,1947-01-08,2016-01-10,male,painter
+Q5577,Salvador_Dal%C3%AD,human,Spain,"['English', 'Spanish', 'French', 'Catalan']",Figueres,1904-05-11,1989-01-23,male,painter
+Q5582,Vincent_van_Gogh,human,Kingdom of the Netherlands,"['Dutch', 'French']",Zundert,1853-03-30,1890-07-29,male,painter
+Q5580,Albrecht_D%C3%BCrer,human,Duchy of Bavaria,"['Middle High German', 'German']",Nuremberg,,,male,painter
+Q5586,Hokusai,human,Japan,['Japanese'],Honjo,1760-10-31,1849-05-10,male,painter
+Q5588,Frida_Kahlo,human,Mexico,['Spanish'],Coyoacán,1907-07-06,1954-07-13,female,painter
+Q5589,Henri_Matisse,human,France,['French'],Le Cateau-Cambrésis,1869-12-31,1954-11-03,male,painter
+Q5592,Michelangelo,human,Republic of Florence,['Italian'],Caprese Michelangelo,,,male,sculptor
+Q5593,Pablo_Picasso,human,Spain,"['Catalan', 'French', 'Spanish']",Málaga,1881-10-25,1973-04-08,male,painter
+Q5598,Rembrandt,human,Dutch Republic,['Dutch'],Leiden,1606-07-15,1669-10-04,male,painter
+Q5597,Raphael,human,Holy Roman Empire,['Italian'],Urbino,,,male,painter
+Q5603,Andy_Warhol,human,United States of America,"['American English', 'English']",Pittsburgh,1928-08-06,1987-02-22,male,film director
+Q5608,Eminem,human,United States of America,"['American English', 'English']",St. Joseph,1972-10-17,,male,rapper
+Q5673,Hans_Christian_Andersen,human,Kingdom of Denmark,['Danish'],Odense,1805-04-02,1875-08-04,male,writer
+Q5676,Matsuo_Bash%C5%8D,human,Japan,['Japanese'],Bashō's birth house,1644,1694-11-28,male,poet
+Q5686,Charles_Dickens,human,United Kingdom of Great Britain and Ireland,"['English', 'British English']",Landport,1812-02-07,1870-06-09,male,writer
+Q5809,Che_Guevara,human,Cuba,['Spanish'],Rosario,1928-06-14,1967-10-09,male,revolutionary
+Q5812,Novak_Djokovic,human,Socialist Federal Republic of Yugoslavia,"['English', 'Serbian', 'Italian', 'French', 'German']",Belgrade,1987-05-22,,male,tennis player
+Q5816,Mao_Zedong,human,People's Republic of China,"['Mandarin', 'Xiang Chinese', 'Chinese']",Shaoshan,1893-12-26,1976-09-09,male,politician
+Q5878,Gabriel_Garc%C3%ADa_M%C3%A1rquez,human,Colombia,['Spanish'],Aracataca,1927-03-06,2014-04-17,male,novelist
+Q5879,Johann_Wolfgang_von_Goethe,human,Saxe-Weimar-Eisenach,['German'],Frankfurt,1749-08-28,1832-03-22,male,theatre manager
+Q6101,Marco_Polo,human,Republic of Venice,"['Venetian', 'Italian']",Venice,,,male,merchant
+Q6279,Joe_Biden,human,United States of America,['English'],Scranton,1942-11-20,,male,politician
+Q6294,Hillary_Clinton,human,United States of America,"['American English', 'English']",Edgewater Hospital,1947-10-26,,female,politician
+Q6527,Jean-Jacques_Rousseau,human,Republic of Geneva,['French'],Geneva,1712-06-28,1778-07-02,male,philosopher
+Q6538,G%C3%BCnter_Grass,human,Free City of Danzig,['German'],Free City of Danzig,1927-10-16,2015-04-13,male,lyricist
+Q6694,Alexander_von_Humboldt,human,Kingdom of Prussia,"['French', 'German', 'Spanish']",Berlin,1769-09-14,1859-05-06,male,geologist
+Q6722,Carl_Friedrich_Gauss,human,Confederation of the Rhine,"['Latin', 'German', 'English', 'French']",Brunswick,1777-04-30,1855-02-23,male,mathematician
+Q7071,Li_Bai,human,Tang dynasty,"['Classical Chinese', 'Chinese']",Suyab,,,male,poet
+Q7085,Niels_Bohr,human,Kingdom of Denmark,"['English', 'Danish']",Copenhagen,1885-10-07,1962-11-18,male,physicist
+Q7176,Naguib_Mahfouz,human,Khedivate of Egypt,['Arabic'],Cairo,1911-12-11,2006-08-30,male,novelist
+Q7186,Marie_Curie,human,France,"['Russian', 'Polish', 'French', 'German', 'English']",Warsaw,1867-11-07,1934-07-04,female,physicist
+Q7192,Qin_Shi_Huang,human,Qin dynasty,['Old Chinese'],Handan,,,male,politician
+Q7199,Marcel_Proust,human,France,['French'],16th arrondissement of Paris,1871-07-10,1922-11-18,male,novelist
+Q7197,Simone_de_Beauvoir,human,France,['French'],6th arrondissement of Paris,1908-01-09,1986-04-14,female,political philosopher
+Q7200,Alexander_Pushkin,human,Russian Empire,"['Russian', 'French']",Moscow,,,male,poet
+Q7207,Elizabeth_I,human,Kingdom of England,"['English', 'French', 'Italian', 'Latin']",Palace of Placentia,,,female,queen
+Q7226,Joan_of_Arc,human,Kingdom of France,"['Middle French', 'French']",Domrémy-la-Pucelle,,,female,military personnel
+Q7231,Rosa_Luxemburg,human,Germany,"['German', 'Polish']",Zamość,1871-03-05,1919-01-15,female,politician
+Q7243,Leo_Tolstoy,human,Russian Empire,"['Russian', 'French', 'English']",Yasnaya Polyana,,,male,writer
+Q7241,Rabindranath_Tagore,human,British Raj,"['Bangla', 'English']",Kolkata,1861-05-07,1941-08-07,male,painter
+Q7245,Mark_Twain,human,United States of America,"['English', 'German']",Florida,1835-11-30,1910-04-21,male,journalist
+Q7251,Alan_Turing,human,United Kingdom,['English'],Maida Vale,1912-06-23,1954-06-07,male,computer scientist
+Q7322,Christopher_Columbus,human,Republic of Genoa,"['Spanish', 'Italian']",Genoa,,,male,explorer
+Q7321,Jacques_Cartier,human,Kingdom of France,['French'],Saint-Malo,,,male,navigator
+Q7326,Hern%C3%A1n_Cort%C3%A9s,human,Spain,['Spanish'],Medellín,,,male,explorer
+Q7327,Yuri_Gagarin,human,Soviet Union,['Russian'],Klushino,1934-03-09,1968-03-27,male,aircraft pilot
+Q7324,James_Cook,human,Kingdom of Great Britain,"['English', 'French']",Marton,1728-10-27,1779-02-14,male,explorer
+Q7331,Ibn_Battuta,human,,"['Arabic', 'Persian', 'Turkish']",Tangier,,,male,explorer
+Q7328,Vasco_da_Gama,human,Kingdom of Portugal,['Portuguese'],Sines,,,male,explorer
+Q7374,Alfred_Hitchcock,human,United Kingdom,"['German', 'English']",Leytonstone,1899-08-13,1980-04-29,male,film director
+Q7416,Margaret_Thatcher,human,United Kingdom,['English'],Grantham,1925-10-13,2013-04-08,female,politician
+Q7439,Richard_Stallman,human,United States of America,"['English', 'Spanish', 'French', 'Indonesian']",Manhattan,1953-03-16,,male,programmer
+Q7474,Rosalind_Franklin,human,United Kingdom of Great Britain and Ireland,"['French', 'British English', 'English']",Notting Hill,1920-07-25,1958-04-16,female,chemist
+Q7504,Ir%C3%A8ne_Joliot-Curie,human,France,['French'],13th arrondissement of Paris,1897-09-12,1956-03-17,female,physicist
+Q7604,Leonhard_Euler,human,Old Swiss Confederacy,"['Latin', 'German', 'French', 'Russian']",Basel,1707-04-15,,male,mathematician
+Q7721,Napoleon_III,human,France,['French'],Paris,1808-04-20,1873-01-09,male,politician
+Q7742,Louis_XIV,human,Kingdom of France,"['French', 'Spanish']",Château de Saint-Germain-en-Laye,1638-09-05,1715-09-01,male,politician
+Q7747,Vladimir_Putin,human,Russia,"['Russian', 'German', 'English']",Saint Petersburg,1952-10-07,,male,politician
+Q8007,Franklin_D._Roosevelt,human,United States of America,"['English', 'German', 'French']",Hyde Park,1882-01-30,1945-04-12,male,statesperson
+Q8011,Avicenna,human,Samanid Empire,"['Arabic', 'Persian']",Afshona,,,male,philosopher
+Q8018,Augustine_of_Hippo,human,Ancient Rome,"['Latin', 'Punic', 'Berber']",Thagaste,,,male,philosopher
+Q8016,Winston_Churchill,human,United Kingdom,"['English', 'French']",Blenheim Palace,1874-11-30,1965-01-24,male,politician
+Q8023,Nelson_Mandela,human,South Africa,"['English', 'Xhosa']",Mvezo,1918-07-18,2013-12-05,male,politician
+Q8027,Martin_Luther_King_Jr.,human,United States of America,['English'],Atlanta,1929-01-15,1968-04-04,male,civil rights advocate
+Q8409,Alexander_the_Great,human,Macedonia,['Ancient Greek'],Pella,,,male,politician
+Q8413,Constantine_the_Great,human,Ancient Rome,['Latin'],Niš,,,male,politician
+Q8442,Otto_von_Bismarck,human,Kingdom of Prussia,"['English', 'French', 'German']",Schönhausen,1815-04-01,1898-07-30,male,politician
+Q8467,Umar,human,Rashidun Caliphate,['Arabic'],Mecca,,,male,statesperson
+Q8479,Peter_the_Great,human,Tsardom of Russia,['Russian'],Moscow,,,male,ruler
+Q8573,Sun_Yat-sen,human,Republic of China,"['English', 'Chinese']",Cuiheng,1866-11-12,1925-03-12,male,politician
+Q8581,Saladin,human,,"['Arabic', 'Kurdish']",Tikrit,,,male,military personnel
+Q8589,Ashoka,human,Maurya empire,['Prakrit'],Patna,,,male,politician
+Q8597,Akbar,human,,"['Chagatai', 'Persian', 'Hindustani']",Umarkot Fort,,1605-10-15,male,monarch
+Q8605,Sim%C3%B3n_Bol%C3%ADvar,human,Spain,"['Spanish', 'French']",Caracas,1783-07-24,1830-12-17,male,politician
+Q8620,Kwame_Nkrumah,human,Gold Coast Colony,"['Akan', 'Nzema', 'Fante', 'English']",Nkroful,1909-09-21,1972-04-27,male,politician
+Q8704,Walt_Disney,human,United States of America,"['English', 'American English']",Chicago,1901-12-05,1966-12-15,male,film director
+Q8739,Archimedes,human,ancient Syracuse,['Ancient Greek'],ancient Syracuse,,,male,mathematician
+Q8743,Thomas_Edison,human,United States of America,['English'],Milan,1847-02-11,1931-10-18,male,engineer
+Q8747,Euclid,human,Classical Athens,['Ancient Greek'],,,,male,mathematician
+Q8750,Michael_Faraday,human,United Kingdom of Great Britain and Ireland,['English'],Newington Butts,1791-09-22,1867-08-25,male,physicist
+Q8753,Enrico_Fermi,human,Kingdom of Italy,"['Italian', 'English']",Rome,1901-09-29,1954-11-28,male,physicist
+Q8768,Henry_Ford,human,United States of America,['English'],Springwells Township,1863-07-30,1947-04-07,male,entrepreneur
+Q8772,Joseph_Fourier,human,France,['French'],Auxerre,1768-03-21,1830-05-16,male,mathematician
+Q8958,Johannes_Gutenberg,human,Holy Roman Empire,['German'],Mainz,,,male,inventor
+Q8962,James_Prescott_Joule,human,United Kingdom of Great Britain and Ireland,['English'],Salford,1818-12-24,1889-10-11,male,physicist
+Q8963,Johannes_Kepler,human,Holy Roman Empire,"['Latin', 'German']",Weil der Stadt,,1630-11-15,male,naturalist
+Q9021,Max_Planck,human,German Empire,"['Spanish', 'German']",Kiel,1858-04-23,1947-10-04,male,theoretical physicist
+Q9038,Al-Khwarizmi,human,,"['Persian', 'Arabic']",Khwarezm,,,male,mathematician
+Q9041,James_Watt,human,Scotland,['English'],Greenock,1736-01-19,1819-08-25,male,engineer
+Q9047,Gottfried_Wilhelm_Leibniz,human,Electorate of Saxony,"['Latin', 'German', 'French', 'Italian', 'English', 'Dutch', 'Hebrew']",Leipzig,1646-07-01,1716-11-14,male,mathematician
+Q9045,Chanakya,human,Maurya empire,['Sanskrit'],Taxila,,,male,writer
+Q9049,Noam_Chomsky,human,United States of America,"['English', 'American English']",East Oak Lane,1928-12-07,,male,philosopher
+Q9061,Karl_Marx,human,Kingdom of Prussia,['German'],Trier,1818-05-05,1883-03-14,male,economist
+Q9068,Voltaire,human,France,['French'],Paris,1694-11-21,1778-05-30,male,philosopher
+Q9095,James_Clerk_Maxwell,human,United Kingdom of Great Britain and Ireland,['English'],Edinburgh,1831-06-13,1879-11-05,male,physicist
+Q9106,Dmitri_Mendeleev,human,Russian Empire,"['Russian', 'German', 'French']",Tobolsk,,,male,chemist
+Q9123,Ernest_Rutherford,human,New Zealand,['English'],Spring Grove,1871-08-30,1937-10-19,male,nuclear physicist
+Q9191,Ren%C3%A9_Descartes,human,France,"['Latin', 'French']",Descartes,1596-03-31,1650-02-11,male,philosopher
+Q9215,Sigmund_Freud,human,Austrian Empire,['German'],Příbor,1856-05-06,1939-09-23,male,psychoanalyst
+Q9235,Georg_Wilhelm_Friedrich_Hegel,human,Kingdom of Württemberg,"['Latin', 'German']",Stuttgart,1770-08-27,1831-11-14,male,philosopher
+Q9294,Ibn_Khaldun,human,,['Arabic'],Tunis,,,male,anthropologist
+Q9312,Immanuel_Kant,human,Kingdom of Prussia,"['German', 'Hebrew', 'Latin', 'Ancient Greek']",Königsberg,1724-04-22,1804-02-12,male,philosopher
+Q9317,John_Maynard_Keynes,human,United Kingdom,['English'],Cambridge,1883-06-05,1946-04-21,male,economist
+Q9333,Laozi,human whose existence is disputed,Zhou dynasty,['Chinese'],Chu,,,male,philosopher
+Q9353,John_Locke,human,Kingdom of England,"['English', 'Latin']",Wrington,1632-08-29,1704-10-28,male,philosopher
+Q9358,Friedrich_Nietzsche,human,Kingdom of Prussia,['German'],Röcken,1844-10-15,1900-08-25,male,philosopher
+Q9364,Jean-Paul_Sartre,human,France,['French'],Paris,1905-06-21,1980-04-15,male,playwright
+Q9372,Sima_Qian,human,Western Han,['Chinese'],Hejin,,,male,historian
+Q9381,Adam_Smith,human,Kingdom of Great Britain,['English'],Kirkcaldy,,1790-07-17,male,economist
+Q9391,Ludwig_Wittgenstein,human,United Kingdom,"['German', 'English']",Neuwaldegg,1889-04-26,1951-04-29,male,philosopher of language
+Q9438,Thomas_Aquinas,human,,"['Medieval Latin', 'Medieval Italian', 'Latin']",Roccasecca,,,male,theologian
+Q9439,Queen_Victoria,human,United Kingdom of Great Britain and Ireland,"['English', 'German', 'French', 'Italian', 'Latin', 'Urdu']",Kensington Palace,1819-05-24,1901-01-22,female,monarch
+Q9441,The_Buddha,human,SHAKYA,"['Magadhi Prakrit', 'Pali', 'Sanskrit']",Lumbini,,,male,bhikkhu
+Q9458,Muhammad,human,,['Classical Arabic'],Mecca,,,male,herder
+Q9535,Shah_Rukh_Khan,human,India,[],New Delhi,1965-11-02,,male,television presenter
+Q9546,Al-Ghazali,human,Seljuk Empire,"['Persian', 'Arabic']",Tus,,,male,philosopher
+Q9545,Tony_Blair,human,United Kingdom,['English'],Edinburgh,1953-05-06,,male,politician
+Q9554,Martin_Luther,human,Holy Roman Empire,"['Latin', 'New High German', 'German']",Lutherstadt Eisleben,,,male,translator
+Q9557,Aamir_Khan,human,India,"['Hindi', 'Urdu', 'English']",Mumbai,1965-03-14,,male,film actor
+Q9582,Gerald_Ford,human,United States of America,['English'],Omaha,1913-07-14,2006-12-26,male,politician
+Q9588,Richard_Nixon,human,United States of America,['English'],Yorba Linda,1913-01-09,1994-04-22,male,politician
+Q9640,Lyndon_B._Johnson,human,United States of America,['English'],Stonewall,1908-08-27,1973-01-22,male,politician
+Q9671,Michael_Schumacher,human,Germany,"['English', 'Italian', 'German']",Hürth,1969-01-03,,male,Formula One driver
+Q9682,Elizabeth_II,human,United Kingdom,"['English', 'French']",Mayfair,1926-04-21,2022-09-08,female,monarch
+Q9696,John_F._Kennedy,human,United States of America,['English'],Brookline,1917-05-29,1963-11-22,male,politician
+Q9916,Dwight_D._Eisenhower,human,United States of America,['English'],Denison,1890-10-14,1969-03-28,male,politician
+Q9960,Ronald_Reagan,human,United States of America,"['American English', 'English']",Tampico,1911-02-06,2004-06-05,male,television actor
+Q10132,Rafael_Nadal,human,Spain,"['Spanish', 'Catalan', 'English']",Manacor,1986-06-03,,male,tennis player
+Q10261,Pythagoras,human,Samos,['Ancient Greek'],Samos,,,male,mathematician
+Q10390,John_McCain,human,United States of America,['English'],Coco Solo,1936-08-29,2018-08-25,male,politician
+Q10520,David_Beckham,human,United Kingdom,['English'],Leytonstone,1975-05-02,,male,association football player
+Q10524,Ryan_Giggs,human,United Kingdom,['English'],Cardiff,1973-11-29,,male,association football player
+Q10665,Kim_Jong_Il,human,North Korea,['Korean'],Vyatskoye,1941-02-16,2011-12-17,male,politician
+Q10707,Robert_Mugabe,human,Zimbabwe,"['Shona', 'English']",Kutama,1924-02-21,2019-09-06,male,politician
+Q10993,Tiger_Woods,human,United States of America,['English'],Cypress,1975-12-30,,male,writer
+Q11256,Fidel_Castro,human,Cuba,['Spanish'],Birán,1926-08-13,2016-11-25,male,politician
+Q11459,Serena_Williams,human,United States of America,"['French', 'English']",Saginaw,1981-09-26,,female,tennis player
+Q11571,Cristiano_Ronaldo,human,Portugal,"['Portuguese', 'Spanish', 'English']",Funchal,1985-02-05,,male,association football player
+Q11613,Harry_S._Truman,human,United States of America,['English'],Lamar,1884-05-08,1972-12-26,male,politician
+Q11637,Judy_Garland,human,United States of America,['English'],Grand Rapids,1922-06-10,1969-06-22,female,television actor
+Q11806,John_Adams,human,United States of America,"['English', 'French', 'Latin']",Braintree,,1826-07-04,male,lawyer
+Q11815,James_Monroe,human,United States of America,"['English', 'French']",Monroe Hall,1758-04-28,1831-07-04,male,politician
+Q11812,Thomas_Jefferson,human,United States of America,"['English', 'French', 'Italian', 'Latin', 'Greek']",Shadwell,,1826-07-04,male,teacher
+Q11813,James_Madison,human,United States of America,"['English', 'Latin', 'French', 'Hebrew', 'Greek']",Port Conway,1751-03-16,1836-06-28,male,politician
+Q11816,John_Quincy_Adams,human,United States of America,"['English', 'French', 'German', 'Latin', 'Dutch', 'Greek']",Braintree,1767-07-11,1848-02-23,male,politician
+Q11817,Andrew_Jackson,human,United States of America,['English'],Waxhaws,1767-03-15,1845-06-08,male,judge
+Q11820,Martin_Van_Buren,human,United States of America,"['English', 'Dutch']",Kinderhook,1782-12-05,1862-07-24,male,politician
+Q11869,William_Henry_Harrison,human,United States of America,"['English', 'Latin']",Charles City County,1773-02-09,1841-04-04,male,politician
+Q11881,John_Tyler,human,United States of America,"['English', 'Latin', 'Ancient Greek']",Greenway Plantation,1790-03-29,1862-01-18,male,politician
+Q11891,James_K._Polk,human,United States of America,"['English', 'Latin', 'Greek']",Pineville,1795-11-02,1849-06-15,male,politician
+Q11896,Zachary_Taylor,human,United States of America,['English'],Barboursville,1784-11-24,1850-07-09,male,statesperson
+Q11975,Britney_Spears,human,United States of America,['English'],McComb,1981-12-02,,female,singer
+Q11998,Kylie_Minogue,human,Australia,['English'],Melbourne,1968-05-28,,female,singer
+Q12091,Henry_Dunant,human,Switzerland,['French'],Geneva,1828-05-08,1910-10-30,male,entrepreneur
+Q12154,Tutankhamun,human,New Kingdom of Egypt,['Middle Egyptian'],Amarna,,,male,ruler
+Q12325,James_Buchanan,human,United States of America,"['English', 'Latin', 'Greek']",Stony Batter,1791-04-23,1868-06-01,male,politician
+Q12897,Pel%C3%A9,human,Brazil,"['Portuguese', 'English', 'Spanish']",Três Corações,1940-10-23,2022-12-29,male,association football player
+Q13133,Michelle_Obama,human,United States of America,"['American English', 'English']",Chicago,1964-01-17,,female,lawyer
+Q13909,Angelina_Jolie,human,United States of America,"['English', 'American English', 'Khmer']",Los Angeles,1975-06-04,,female,model
+Q14277,William_Herschel,human,Kingdom of Hanover,['English'],Hanover,1738-11-15,1822-08-25,male,astronomer
+Q14524,Charles_Messier,human,France,['French'],Badonviller,1730-06-26,1817-04-12,male,astronomer
+Q15031,Xi_Jinping,human,People's Republic of China,"['Mandarin', 'Chinese']",Beijing,1953-06-15,,male,statesperson
+Q15029,Hu_Jintao,human,People's Republic of China,['Chinese'],Jiangyan District,1942-12-21,,male,politician
+Q15948,%C3%89mile_Durkheim,human,France,['French'],Épinal,1858-04-15,1917-11-15,male,anthropologist
+Q16397,Bruce_Lee,human,British Hong Kong,"['Yue Chinese', 'English']",San Francisco Chinese Hospital,1940-11-27,1973-07-20,male,film director
+Q16574,Chiang_Kai-shek,human,Republic of China,"['Chinese', 'Wu Chinese']",Xikou,1887-10-31,1975-04-05,male,politician
+Q16977,Deng_Xiaoping,human,Qing Dynasty,['Chinese'],Guanganzhou,1904-08-22,1997-02-19,male,politician
+Q17163,Johan_Cruyff,human,Kingdom of the Netherlands,"['Dutch', 'Spanish']",Betondorp,1947-04-25,2016-03-24,male,association football player
+Q17455,John_von_Neumann,human,Hungary,"['Hungarian', 'French', 'German', 'Latin', 'Ancient Greek', 'English']",Budapest,1903-12-28,1957-02-08,male,mathematician
+Q17515,Diego_Maradona,human,Argentina,"['Italian', 'Spanish']",Lanús,1960-10-30,2020-11-25,male,association football player
+Q17714,Stephen_Hawking,human,United Kingdom,['English'],Oxford,1942-01-08,2018-03-14,male,theoretical physicist
+Q18111,Li_Keqiang,human,People's Republic of China,"['Mandarin', 'English']",Hefei,1955-07-03,2023-10-27,male,politician
+Q19673,Al_Gore,human,United States of America,['English'],"Washington, D.C.",1948-03-31,,male,politician
+Q19837,Steve_Jobs,human,United States of America,['English'],San Francisco,1955-02-24,2011-10-05,male,entrepreneur
+Q19848,Lady_Gaga,human,United States of America,"['English', 'French', 'German']",Lenox Hill Hospital,1986-03-28,,female,singer
+Q19878,Muammar_Gaddafi,human,Libya,['Arabic'],Qasr Abu Hadi,1942,2011-10-20,male,politician
+Q21001,Moon_Jae-in,human,South Korea,['Korean'],Geoje,1953-01-24,,male,politician
+Q22686,Donald_Trump,human,United States of America,['English'],Jamaica Hospital Medical Center,1946-06-14,,male,business magnate
+Q23114,Lu_Xun,human,Qing Dynasty,"['Japanese', 'English', 'German', 'Russian', 'Esperanto', 'Classical Chinese', 'written vernacular Chinese', 'Chinese']",Shaoxing,1881-09-25,1936-10-19,male,essayist
+Q23215,Adele,human,United Kingdom,['English'],Tottenham,1988-05-05,,female,singer-songwriter
+Q23365,Jeremy_Renner,human,United States of America,['English'],Modesto,1971-01-07,,male,musician
+Q23380,Jean-Auguste-Dominique_Ingres,human,France,['French'],Montauban,1780-08-29,1867-01-14,male,painter
+Q23434,Ernest_Hemingway,human,United States of America,"['English', 'French', 'Spanish']",Oak Park,1899-07-21,1961-07-02,male,war correspondent
+Q23505,George_H._W._Bush,human,United States of America,['English'],Milton,1924-06-12,2018-11-30,male,politician
+Q23530,Dmitry_Medvedev,human,Russia,"['Russian', 'English']",Saint Petersburg,1965-09-14,,male,jurist
+Q23543,Selena,human,United States of America,"['American English', 'Mexican Spanish', 'Spanish']",Lake Jackson,1971-04-16,1995-03-31,female,singer
+Q23559,Benito_Mussolini,human,Italian Social Republic,"['French', 'Italian', 'German']",Predappio,1883-07-29,1945-04-28,male,journalist
+Q23685,Jimmy_Carter,human,United States of America,"['English', 'Spanish']",Lillian G. Carter Nursing Center,1924-10-01,,male,naval officer
+Q23760,Rowan_Atkinson,human,United Kingdom,['English'],Consett,1955-01-06,,male,television actor
+Q23810,Alfred_Nobel,human,Sweden,"['Swedish', 'French', 'Russian', 'English', 'German', 'Italian']",Jakob and Johannes parish,1833-10-21,1896-12-10,male,chemist
+Q25369,Kobe_Bryant,human,United States of America,"['English', 'Italian', 'Spanish']",Philadelphia,1978-08-23,2020-01-26,male,basketball player
+Q25973,Hermann_Hesse,human,German Empire,['German'],Calw,1877-07-02,1962-08-09,male,novelist
+Q26517,Luis_Su%C3%A1rez,human,Uruguay,['Spanish'],Salto,1987-01-24,,male,association football player
+Q26825,Herodotus,human,Halicarnassus,['Ancient Greek'],Halicarnassus,,,male,historian
+Q26876,Taylor_Swift,human,United States of America,['English'],West Reading,1989-12-13,,female,actor
+Q29179,Francisco_Franco,human,Spain,['Spanish'],Ferrol,1892-12-04,1975-11-20,male,military officer
+Q30487,Mikhail_Gorbachev,human,Russia,['Russian'],Privolnoye,1931-03-02,2022-08-30,male,politician
+Q30547,Mother_Teresa,human,Albania,"['Albanian', 'Bangla', 'English', 'Hindi', 'Serbian', 'Slovene']",Skopje,1910-08-26,1997-09-05,female,religious sister
+Q30875,Oscar_Wilde,human,United Kingdom of Great Britain and Ireland,"['English', 'French', 'Latin', 'Ancient Greek', 'German']",Dublin,1854-10-16,1900-11-30,male,poet
+Q32732,Malala_Yousafzai,human,Pakistan,"['English', 'Urdu', 'Pashto']",Mingora,1997-07-12,,female,blogger
+Q33391,Leon_Trotsky,human,Russian Empire,"['Russian', 'Ukrainian', 'German', 'English', 'French']",Bereslavka,,1940-08-21,male,politician
+Q33760,Bertrand_Russell,human,United Kingdom,['English'],Trellech,1872-05-18,1970-02-02,male,mathematician
+Q33772,Du_Fu,human,Tang dynasty,['Chinese'],Gongyi,,,male,poet
+Q33817,Edmund_Hillary,human,New Zealand,['English'],Auckland,1919-07-20,2008-01-11,male,explorer
+Q33866,Theodore_Roosevelt,human,United States of America,"['English', 'French', 'German', 'Italian']",Manhattan,1858-10-27,1919-01-06,male,explorer
+Q33923,Saint_Peter,human,,[],Bethsaida,,,male,presbyter
+Q34086,Justin_Bieber,human,Canada,"['Canadian English', 'English']",London,1994-03-01,,male,musician
+Q34105,Hosni_Mubarak,human,Kingdom of Egypt,"['Arabic', 'English']",Kafr el-Muṣīlḥa,1928-05-04,2020-02-25,male,politician
+Q34189,Pablo_Neruda,human,Chile,['Spanish'],Parral,1904-07-12,1973-09-23,male,poet
+Q34253,Linus_Torvalds,human,United States of America,"['Finland Swedish', 'Finnish', 'English']",Helsinki,1969-12-28,,male,programmer
+Q34286,Alexander_Graham_Bell,human,United States of America,"['American Sign Language', 'English']",Edinburgh,1847-03-03,1922-08-02,male,physicist
+Q34296,Woodrow_Wilson,human,United States of America,"['English', 'German']",Staunton,1856-12-28,1924-02-03,male,politician
+Q34389,Whitney_Houston,human,United States of America,['English'],Newark,1963-08-09,2012-02-11,female,singer
+Q34413,Benazir_Bhutto,human,Pakistan,"['Urdu', 'English']",Karachi,1953-06-21,2007-12-27,female,politician
+Q34424,Shakira,human,Spain,"['Spanish', 'English', 'Italian', 'Portuguese', 'French', 'Catalan']",Barranquilla,1977-02-02,,female,singer
+Q34436,Scarlett_Johansson,human,United States of America,"['American English', 'English']",Manhattan,1984-11-22,,female,film actor
+Q34453,Boris_Yeltsin,human,Soviet Union,['Russian'],Butka,1931-02-01,2007-04-23,male,civil engineer
+Q34479,Hirohito,human,Japan,['Japanese'],Aoyama,1901-04-29,1989-01-07,male,military personnel
+Q34503,Mehmed_II,human,Ottoman Empire,"['Ottoman Turkish', 'Arabic', 'Persian', 'Biblical Hebrew', 'Medieval Greek', 'Latin', 'Serbian']",Edirne,,,male,monarch
+Q34580,Ichirou_Mizuki,human,Japan,['Japanese'],Setagaya-ku,1948-01-07,2022-12-06,male,lyricist
+Q34597,James_A._Garfield,human,United States of America,"['English', 'Latin', 'Greek']",Moreland Hills,1831-11-19,1881-09-19,male,politician
+Q34660,J._K._Rowling,human,United Kingdom,"['English', 'British English']",Yate,1965-07-31,,female,film producer
+Q34670,Albert_Camus,human,France,['French'],Dréan,1913-11-07,1960-01-04,male,writer
+Q34743,Rudyard_Kipling,human,United Kingdom,['English'],Mumbai,1865-12-30,1936-01-18,male,writer
+Q34836,Ulysses_S._Grant,human,United States of America,['English'],Point Pleasant,1822-04-27,1885-07-23,male,explorer
+Q34943,Ptolemy,human,Ancient Rome,['Ancient Greek'],Ptolemais Hermiou,,,male,mathematician
+Q34969,Benjamin_Franklin,human,British America,['English'],Boston,1706-01-17,1790-04-17,male,politician
+Q34981,Isaac_Asimov,human,Russian Socialist Federative Soviet Republic,"['English', 'Yiddish']",Petrovichi,1920-01-02,1992-04-06,male,biochemist
+Q35041,William_McKinley,human,United States of America,['English'],Niles,1843-01-29,1901-09-14,male,politician
+Q35064,Agatha_Christie,human,United Kingdom,['English'],Ashfield,1890-09-15,1976-01-12,female,writer
+Q35149,Wilhelm_R%C3%B6ntgen,human,Weimar Republic,['German'],Lennep,1845-03-27,1923-02-10,male,physicist
+Q35171,Grover_Cleveland,human,United States of America,['English'],Caldwell,1837-03-18,1908-06-24,male,politician
+Q35314,Nikita_Khrushchev,human,Russian Empire,['Russian'],Kalinovka,,1971-09-11,male,politician
+Q35648,William_Howard_Taft,human,United States of America,['English'],Cincinnati,1857-09-15,1930-03-08,male,judge
+Q35811,Zoroaster,human,,['Avestan'],Ray,,,male,prophet
+Q36014,Ho_Chi_Minh,human,North Vietnam,"['English', 'French', 'Russian', 'Vietnamese', 'Yue Chinese', 'Mandarin']",Kim Liên,1890-05-19,1969-09-02,male,politician
+Q36023,Calvin_Coolidge,human,United States of America,['English'],Plymouth Notch,1872-07-04,1933-01-05,male,politician
+Q36107,Muhammad_Ali,human,United States of America,['English'],Louisville,1942-01-17,2016-06-03,male,boxer
+Q36153,Beyonc%C3%A9,human,United States of America,['English'],Houston,1981-09-04,,female,singer
+Q36215,Mark_Zuckerberg,human,United States of America,"['Mandarin', 'English']",White Plains,1984-05-14,,male,programmer
+Q36268,Brigitte_Bardot,human,France,['French'],15th arrondissement of Paris,1934-09-28,,female,singer
+Q36303,Thales_of_Miletus,human,,['Ancient Greek'],Miletus,,,male,mathematician
+Q36359,Hammurabi,human,Babylonia,['Akkadian'],Babylonia,,,male,king
+Q36456,Hannibal,human,Ancient Carthage,[],Carthage,,,male,politician
+Q36488,Guglielmo_Marconi,human,Kingdom of Italy,['Italian'],Bologna,1874-04-25,1937-07-20,male,physicist
+Q36724,Attila,human,Hunnic Empire,[],Caucasus,,,male,tribal chief
+Q36740,Aung_San_Suu_Kyi,human,Myanmar,"['Burmese', 'English']",Yangon,1945-06-19,,female,politician
+Q36767,Robert_Pattinson,human,United Kingdom,['English'],London,1986-05-13,,male,actor
+Q36812,"William,_Prince_of_Wales",human,United Kingdom,"['English', 'French', 'Irish', 'Swahili']",St. Mary's Hospital,1982-06-21,,male,aircraft pilot
+Q36844,Rihanna,human,Barbados,['English'],Saint Michael,1988-02-20,,female,singer
+Q36970,Jackie_Chan,human,United States of America,"['English', 'Cantonese', 'Mandarin']",Victoria Peak,1954-04-07,,male,film director
+Q37060,Jos%C3%A9_Saramago,human,Portugal,['Portuguese'],Azinhaga,1922-11-16,2010-06-18,male,journalist
+Q37064,Alexander_Fleming,human,United Kingdom,['English'],Lochfield,1881-08-06,,male,bacteriologist
+Q37079,Tom_Cruise,human,United States of America,['English'],Syracuse,1962-07-03,,male,film actor
+Q37103,Florence_Nightingale,human,United Kingdom of Great Britain and Ireland,['English'],Florence,1820-05-12,1910-08-13,female,nurse
+Q37151,Sun_Tzu,human,Qi,['Chinese'],Qi,,,male,writer
+Q37175,Johnny_Depp,human,United States of America,['English'],Owensboro,1963-06-09,,male,film director
+Q37181,Luiz_In%C3%A1cio_Lula_da_Silva,human,Brazil,['Portuguese'],Caetés,1945-10-27,,male,trade unionist
+Q37193,Robert_Koch,human,Kingdom of Hanover,['German'],Clausthal,1843-12-11,1910-05-27,male,biologist
+Q37370,Klaus_Ebner,human,Austria,"['Catalan', 'French', 'German']",Vienna,1964-08-08,,male,linguist
+Q37388,Francis_Bacon,human,Kingdom of England,"['Latin', 'English']","York House, Strand",,,male,philosopher
+Q37459,Nicole_Kidman,human,Australia,['English'],Honolulu,1967-06-20,,female,actor
+Q37463,Pierre_Curie,human,France,['French'],Paris,1859-05-15,1906-04-19,male,physicist
+Q37610,David_Ben-Gurion,human,Russian Empire,"['Hebrew', 'Yiddish', 'Turkish', 'Polish']",Płońsk,1886-10-16,1973-12-01,male,politician
+Q37621,Thomas_Hobbes,human,Kingdom of England,"['Latin', 'English']",Westport,1588-04-05,1679-12-04,male,political scientist
+Q37628,Mila_Kunis,human,United States of America,"['English', 'Ukrainian', 'Russian', 'American English']",Chernivtsi,1983-08-14,,female,actor
+Q37731,Uthman,human,Hejaz,['Arabic'],Mecca,,0656-06-17,male,politician
+Q37767,T._S._Eliot,human,United States of America,['English'],St. Louis,1888-09-26,1965-01-04,male,playwright
+Q37970,Gregor_Mendel,human,Cisleithania,"['German', 'Latin', 'Czech']",Hynčice,1822-07-20,1884-01-06,male,biologist
+Q37979,Akihito,human,Japan,['Japanese'],Tokyo Imperial Palace,1933-12-23,,male,monarch
+Q38049,Herta_M%C3%BCller,human,Germany,"['German', 'Romanian']",Nițchidorf,1953-08-17,,female,writer
+Q38082,Lewis_Carroll,human,United Kingdom of Great Britain and Ireland,"['British English', 'English']",Daresbury,1832-01-27,1898-01-14,male,mathematician
+Q38111,Leonardo_DiCaprio,human,United States of America,"['English', 'Italian', 'German']",Los Angeles,1974-11-11,,male,actor
+Q38136,"Marcelo_(footballer,_born_1988)",human,Brazil,['Portuguese'],Rio de Janeiro,1988-05-12,,male,association football player
+Q38203,Helen_Keller,human,United States of America,['English'],Tuscumbia,1880-06-27,1968-06-01,female,writer
+Q38370,Henry_VIII,human,Kingdom of England,"['English', 'Italian', 'French', 'Latin']",Palace of Placentia,,,male,monarch
+Q38392,William_Faulkner,human,United States of America,['English'],New Albany,1897-09-25,1962-07-06,male,screenwriter
+Q38823,Ruhollah_Khomeini,human,Iran,"['Persian', 'Arabic']",Khomein,1900-05-17,1989-06-03,male,politician
+Q39212,John_Steinbeck,human,United States of America,['English'],Salinas,1902-02-27,1968-12-20,male,writer
+Q39246,Richard_Feynman,human,United States of America,"['English', 'Portuguese']",Far Rockaway,1918-05-11,1988-02-15,male,physicist
+Q39444,Ronaldinho,human,Brazil,"['Portuguese', 'Spanish']",Porto Alegre,1980-03-21,,male,association football player
+Q39464,Pol_Pot,human,French Indochina,['Khmer'],Prek Sbauv,1925-05-19,1998-04-15,male,politician
+Q39476,Emma_Watson,human,United Kingdom,"['English', 'French']",Le Marais,1990-04-15,,female,model
+Q39524,Gamal_Abdel_Nasser,human,Sultanate of Egypt,"['Arabic', 'French', 'English']",Alexandria,1918-01-15,1970-09-28,male,politician
+Q39599,Christiaan_Huygens,human,Dutch Republic,"['Latin', 'Dutch']",The Hague,1629-04-14,1695-07-08,male,astronomer
+Q39607,Antoine_Lavoisier,human,Kingdom of France,['French'],Paris,1743-08-26,1794-05-08,male,chemist
+Q39619,Ali,human,Rashidun Caliphate,"['Classical Arabic', 'Arabic']",Mecca,,,male,statesperson
+Q39978,Nostradamus,human,Kingdom of France,['French'],Saint-Rémy-de-Provence,,,male,pharmacist
+Q40026,Sylvester_Stallone,human,United States of America,['English'],Hell's Kitchen,1946-07-06,,male,film actor
+Q40096,Will_Smith,human,United States of America,"['English', 'Spanish']",Philadelphia,1968-09-25,,male,actor
+Q40213,W._B._Yeats,human,Irish Free State,['English'],Sandymount,1865-06-13,1939-01-28,male,poet
+Q40224,Carl_Benz,human,Republic of Baden,['German'],Mühlburg,1844-11-25,1929-04-04,male,engineer
+Q40523,Julia_Roberts,human,United States of America,['English'],Smyrna,1967-10-28,,female,television actor
+Q40715,Jennifer_Lopez,human,United States of America,"['English', 'Spanish']",The Bronx,1969-07-24,,female,film actor
+Q40787,Nicholas_II,human,Russian Empire,"['Russian', 'German', 'English', 'Danish', 'French']",Pushkin,,1918-07-17,male,monarch
+Q40791,Sandra_Bullock,human,United States of America,"['English', 'German']",Arlington County,1964-07-26,,female,actor
+Q40904,Werner_Heisenberg,human,German Empire,['German'],Würzburg,1901-12-05,1976-02-01,male,theoretical physicist
+Q40930,Nefertiti,human,Ancient Egypt,[],Thebes,,,female,queen regnant
+Q41042,Harold_Pinter,human,United Kingdom,['English'],London,1930-10-10,2008-12-24,male,playwright
+Q41117,Kim_Il_Sung,human,North Korea,"['Korean', 'Chinese', 'Russian']",Mangyongdae District,1912-04-15,1994-07-08,male,politician
+Q41173,Demi_Lovato,human,United States of America,['English'],Albuquerque,1992-08-20,,non-binary,singer-songwriter
+Q41269,Henri_Becquerel,human,France,['French'],Paris,1852-12-15,1908-08-25,male,physicist
+Q41284,John_Dalton,human,United Kingdom of Great Britain and Ireland,"['English', 'German']",Cumberland,1766-09-06,1844-07-27,male,physicist
+Q41406,Edvard_Munch,human,Norway,"['French', 'Norwegian']",Ådalsbruk,1863-12-12,1944-01-23,male,painter
+Q41421,Michael_Jordan,human,United States of America,['English'],Brooklyn,1963-02-17,,male,basketball player
+Q41585,David_Hilbert,human,Kingdom of Prussia,['German'],Kaliningrad,1862-01-23,1943-02-14,male,mathematician
+Q41617,Liu_Xiaobo,human,People's Republic of China,['Chinese'],Changchun,1955-12-28,2017-07-13,male,poet
+Q41688,Hendrik_Lorentz,human,Kingdom of the Netherlands,['Dutch'],Arnhem,1853-07-18,1928-02-04,male,curator
+Q42013,Anwar_Sadat,human,Egypt,"['English', 'Arabic']",Mit Abu al-Kum,1918-12-25,1981-10-06,male,politician
+Q42037,J._M._G._Le_Cl%C3%A9zio,human,France,"['English', 'Spanish', 'Italian', 'French']",Nice,1940-04-13,,male,writer
+Q42101,Denzel_Washington,human,United States of America,['English'],Mount Vernon,1954-12-28,,male,film director
+Q42122,Tomas_Transtr%C3%B6mer,human,Sweden,['Swedish'],Stockholm,1931-04-15,2015-03-26,male,linguist
+Q42156,Henri_Bergson,human,France,['French'],Paris,1859-10-18,1941-01-04,male,philosopher
+Q42247,Sully_Prudhomme,human,France,['French'],10th arrondissement of Paris,1839-03-16,1907-09-07,male,poet
+Q42398,Mikhail_Sholokhov,human,Russian Empire,['Russian'],Kruzhilin,,1984-02-21,male,writer
+Q42410,Evo_Morales,human,Bolivia,"['Spanish', 'Aymara']",Oruro,1959-10-26,,male,politician
+Q42493,Katy_Perry,human,United States of America,['English'],Santa Barbara,1984-10-25,,female,singer-songwriter
+Q42511,H._G._Wells,human,United Kingdom,['English'],Bromley,1866-09-21,1946-08-13,male,writer
+Q42775,Johnny_Cash,human,United States of America,['English'],Kingsland,1932-02-26,2003-09-12,male,singer-songwriter
+Q42985,Ivan_Pavlov,human,Soviet Union,['Russian'],Ryazan,,1936-02-27,male,chemist
+Q43179,Ellen_Johnson_Sirleaf,human,Liberia,['English'],Monrovia,1938-10-29,,female,politician
+Q43203,Clint_Eastwood,human,United States of America,['English'],San Francisco,1930-05-31,,male,film producer
+Q43293,J._M._Coetzee,human,South Africa,"['Afrikaans', 'English']",Cape Town,1940-02-09,,male,linguist
+Q43303,Malcolm_X,human,United States of America,['English'],Omaha,1925-05-19,1965-02-21,male,politician
+Q43393,Robert_Boyle,human,Kingdom of England,"['English', 'French', 'Latin', 'Irish']",Lismore Castle,1627-01-25,1691-12-31,male,physicist
+Q43416,Keanu_Reeves,human,Canada,['English'],Beirut,1964-09-02,,male,television actor
+Q43432,Justin_Timberlake,human,United States of America,['English'],Memphis,1981-01-31,,male,actor
+Q43723,Benjamin_Netanyahu,human,Israel,"['English', 'French', 'Hebrew']",Tel Aviv,1949-10-21,,male,politician
+Q43729,Andr%C3%A9s_Iniesta,human,Spain,['Spanish'],Albacete,1984-05-11,,male,association football player
+Q43736,Yasunari_Kawabata,human,Japan,['Japanese'],Osaka,1899-06-11,1972-04-16,male,writer
+Q43874,Eddie_Murphy,human,United States of America,['English'],Brooklyn,1961-04-03,,male,comedian
+Q44077,Jessica_Alba,human,United States of America,['English'],Pomona,1981-04-28,,female,television actor
+Q44183,William_Golding,human,United Kingdom,['English'],Newquay,1911-09-19,1993-06-19,male,writer
+Q44269,Saint_Nicholas,human,Ancient Rome,['Ancient Greek'],Patara,,,male,presbyter
+Q44301,Jim_Morrison,human,United States of America,['English'],Melbourne,1943-12-08,1971-07-03,male,vocalist
+Q44371,Valentina_Tereshkova,human,Soviet Union,['Russian'],Bolshoye Maslennikovo,1937-03-06,,female,astronaut
+Q44380,Cameron_Diaz,human,United States of America,['English'],San Diego,1972-08-30,,female,film actor
+Q44437,John_Cena,human,United States of America,"['English', 'Mandarin']",West Newbury,1977-04-23,,male,professional wrestler
+Q44467,Orlando_Bloom,human,United Kingdom,['English'],Canterbury,1977-01-13,,male,film actor
+Q44741,Francisco_Pizarro,human,Crown of Castile,['Spanish'],Trujillo,1478-03-16,,male,conquistador
+Q44903,Lindsay_Lohan,human,United States of America,['English'],The Bronx,1986-07-02,,female,film actor
+Q44519,Selma_Lagerl%C3%B6f,human,Sweden,['Swedish'],Östra Ämtervik church parish,1858-11-20,1940-03-16,female,novelist
+Q44980,Alex_Ferguson,human,United Kingdom,['English'],Govan,1941-12-31,,male,association football player
+Q45785,Kim_Dae-jung,human,South Korea,"['Japanese', 'Korean']",Hauido,1924-01-06,2009-08-18,male,politician
+Q45901,Thierry_Henry,human,France,"['French', 'English']",Les Ulis,1977-08-17,,male,association football player
+Q45970,Czes%C5%82aw_Mi%C5%82osz,human,Poland,"['American English', 'French', 'Polish', 'English', 'Spanish', 'Czech']",Šeteniai,1911-06-30,2004-08-14,male,poet
+Q46633,Charles_Babbage,human,United Kingdom of Great Britain and Ireland,['English'],London,1791-12-26,1871-10-18,male,mathematician
+Q46830,Robert_Hooke,human,Kingdom of England,"['English', 'Latin', 'Ancient Greek']",Freshwater,,,male,architect
+Q47059,Aishwarya_Rai_Bachchan,human,India,"['Hindi', 'English', 'Tamil', 'Tulu', 'Marathi']",Mangaluru,1973-11-01,,female,film actor
+Q47213,Warren_Buffett,human,United States of America,['English'],Omaha,1930-08-30,,male,investor
+Q47243,Elfriede_Jelinek,human,Austria,['German'],Mürzzuschlag,1946-10-20,,female,writer
+Q47285,J._J._Thomson,human,United Kingdom,['English'],Cheetham Hill,1856-12-18,1940-08-30,male,physicist
+Q47576,Ars%C3%A8ne_Wenger,human,France,"['French', 'German', 'English']",Strasbourg,1949-10-22,,male,association football coach
+Q47899,Paris_Hilton,human,United States of America,['English'],New York City,1981-02-17,,female,actor
+Q48231,Idi_Amin,human,Uganda,"['English', 'Swahili']",Koboko,1928-05-30,2003-08-16,male,politician
+Q48337,Morgan_Freeman,human,United States of America,['English'],Memphis,1937-06-01,,male,film producer
+Q48973,Glenn_T._Seaborg,human,United States of America,"['English', 'Swedish']",Ishpeming,1912-04-19,1999-02-25,male,chemist
+Q52183,Sheikh_Hasina,human,Bangladesh,['Bangla'],Tungipara Upazila,1947-09-28,,female,politician
+Q55800,Oprah_Winfrey,human,United States of America,['English'],Kosciusko,1954-01-29,,female,television presenter
+Q56226,Kim_Jong_Un,human,North Korea,['Korean'],Pyongyang,1984-01-08,,male,politician
+Q57077,Karl_Ferdinand_Braun,human,Electorate of Hesse,['German'],Fulda,1850-06-06,1918-04-20,male,physicist
+Q57327,Hassanal_Bolkiah,human,Brunei,[],Bandar Seri Begawan,1946-07-15,,male,politician
+Q57336,Ali_Khamenei,human,Pahlavi Iran,"['Persian', 'Arabic']",Mashhad,1939-04-19,,male,Islamic jurist
+Q57371,Ilham_Aliyev,human,Azerbaijan,"['Russian', 'Turkish', 'French', 'Azerbaijani', 'English']",Baku,1961-12-24,,male,politician
+Q57402,Daniel_Ortega,human,Nicaragua,['Spanish'],La Libertad,1945-11-11,,male,politician
+Q58132,Nicol%C3%A1s_Maduro,human,Venezuela,['Spanish'],Caracas,1962-11-23,,male,diplomat
+Q58978,Max_Born,human,German Reich,"['German', 'English']",Wrocław,1882-12-11,1970-01-05,male,physicist
+Q60052,Gustav_Kirchhoff,human,Kingdom of Prussia,['German'],Königsberg,1824-03-12,1887-10-17,male,physicist
+Q60061,Venki_Ramakrishnan,human,United States of America,['English'],Chidambaram,1952,,male,biologist
+Q62891,Heike_Kamerlingh_Onnes,human,Kingdom of the Netherlands,"['Dutch', 'English', 'French']",Groningen,1853-09-21,1926-02-21,male,physicist
+Q72334,Toni_Morrison,human,United States of America,['English'],Lorain,1931-02-18,2019-08-05,female,writer
+Q75655,Pierre_de_Fermat,human,France,"['Latin', 'French']",Beaumont-de-Lomagne,1607,1665-01-12,male,mathematician
+Q75698,Samuel_Morse,human,United States of America,['English'],Charlestown,1791-04-27,1872-04-02,male,inventor
+Q76127,Sukarno,human,Indonesia,"['Javanese', 'Indonesian', 'Dutch']",Surabaya,1901-06-06,1970-06-21,male,politician
+Q79000,Pieter_Zeeman,human,Kingdom of the Netherlands,"['Dutch', 'English']",Zonnemaire,1865-05-25,1943-10-09,male,physicist
+Q80046,Charlize_Theron,human,South Africa,"['Afrikaans', 'English']",Benoni,1975-08-07,,female,actor
+Q80069,Megan_Fox,human,United States of America,['English'],Oak Ridge,1986-05-16,,female,actor
+Q80871,Gabriela_Mistral,human,Chile,['Spanish'],Vicuña,1889-04-07,1957-01-10,female,poet
+Q81328,Harrison_Ford,human,United States of America,['English'],Chicago,1942-07-13,,male,actor
+Q81520,Pierce_Brosnan,human,Republic of Ireland,['English'],Drogheda,1953-05-16,,male,actor
+Q81731,Murasaki_Shikibu,human,,['Japanese'],Heian-kyō,,,female,lady-in-waiting
+Q82110,Steven_Seagal,human,United States of America,['English'],Lansing,1952-04-10,,male,film actor
+Q83059,Saul_Bellow,human,United States of America,['English'],Lachine,1915-06-10,2005-04-05,male,writer
+Q83287,Selena_Gomez,human,United States of America,"['American English', 'Spanish', 'English']",Grand Prairie,1992-07-22,,female,singer
+Q83331,Louis_de_Broglie,human,France,['French'],Dieppe,1892-08-15,1987-03-19,male,physicist
+Q83333,James_Watson,human,United States of America,['English'],Chicago,1928-04-06,,male,biologist
+Q83338,Robin_Williams,human,United States of America,['English'],Chicago,1951-07-21,2014-08-11,male,stand-up comedian
+Q83488,Mesut_%C3%96zil,human,Germany,"['German', 'Turkish']",Gelsenkirchen,1988-10-15,,male,association football player
+Q83492,Gary_Oldman,human,United Kingdom,['English'],London,1958-03-21,,male,film actor
+Q84405,Karl_Landsteiner,human,Austria-Hungary,['German'],Vienna,1868-06-14,1944-06-26,male,physiologist
+Q92764,Sergey_Brin,human,United States of America,"['English', 'Russian']",Moscow,1973-08-21,,male,computer scientist

@@ -1,0 +1,232 @@
+code,name,instance,citizenship,language,birth_place,birth_date,gender,birth_year
+Q302,Jesus,human biblical figure,Israel,Galilean dialect,Bethlehem,,male,
+Q303,Elvis_Presley,human,United States of America,English,Tupelo,1935-01-08,male,1935.0
+Q307,Galileo_Galilei,human,Italy,Latin,Pisa,,male,
+Q329,Nicolas_Sarkozy,human,France,French,Paris,1955-01-28,male,1955.0
+Q352,Adolf_Hitler,human,Austria,German,Braunau am Inn,1889-04-20,male,1889.0
+Q392,Bob_Dylan,human,United States of America,English,Duluth,1941-05-24,male,1941.0
+Q409,Bob_Marley,human,Jamaica,English,Gullegem,1945-02-06,male,1945.0
+Q517,Napoleon,human,France,French,Ajaccio,1769-08-15,male,1769.0
+Q567,Angela_Merkel,human,Germany,German,Eimsbüttel,1954-07-17,female,1954.0
+Q615,Lionel_Messi,human,Argentina,Spanish,Rosario,1987-06-24,male,1987.0
+Q619,Nicolaus_Copernicus,human,Poland,Latin,Toruń,,male,
+Q635,Cleopatra,human,Egypt,Ancient Greek,Alexandria,,female,
+Q687,Moli%C3%A8re,human,France,French,Paris,,male,
+Q692,William_Shakespeare,human,United Kingdom,English,Stratford-upon-Avon,,male,
+Q720,Genghis_Khan,human,Mongolia,,Delüün Boldog,,male,
+Q762,Leonardo_da_Vinci,human,Italy,Italian,Anchiano,,male,
+Q23,George_Washington,human,United Kingdom,English,Westmoreland County,1732-02-22,male,1732.0
+Q76,Barack_Obama,human,United States of America,English,Kapiolani Medical Center for Women and Children,1961-08-04,male,1961.0
+Q91,Abraham_Lincoln,human,United States of America,English,Sinking Spring Farm,1809-02-12,male,1809.0
+Q157,Fran%C3%A7ois_Hollande,human,France,French,Rouen,1954-08-12,male,1954.0
+Q181,Jimmy_Wales,human,United States of America,English,Huntsville,1966-08-07,male,1966.0
+Q207,George_W._Bush,human,United States of America,English,New Haven,1946-07-06,male,1946.0
+Q254,Wolfgang_Amadeus_Mozart,human,Germany,German,Salzburg,1756-01-27,male,1756.0
+Q255,Ludwig_van_Beethoven,human,Germany,German,Bonn,1770-12-16,male,1770.0
+Q855,Joseph_Stalin,human,Russia,Georgian,Gori,,male,
+Q859,Plato,human,Grece,Ancient Greek,Athens,,male,
+Q868,Aristotle,human,Grece,Ancient Greek,Stageira,,male,
+Q873,Meryl_Streep,human,United States of America,English,Summit,1949-06-22,female,1949.0
+Q882,Charlie_Chaplin,human,United Kingdom,English,Walworth,1889-04-16,male,1889.0
+Q905,Franz_Kafka,human,Austria,German,Prague,1883-07-03,male,1883.0
+Q913,Socrates,human,Grece,Ancient Greek,Alopeke,,male,
+Q926,Roald_Amundsen,human,Norway,Norwegian,Borge Municipality,1872-07-16,male,1872.0
+Q935,Isaac_Newton,human,United Kingdom,Latin,Woolsthorpe Manor,,male,
+Q937,Albert_Einstein,human,Germany,German,Ulm,1879-03-14,male,1879.0
+Q991,Fyodor_Dostoevsky,human,Russia,Russian,Moscow,,male,
+Q1001,Mahatma_Gandhi,human,India,Gujarati,Porbandar,1869-10-02,male,1869.0
+Q1035,Charles_Darwin,human,United Kingdom,English,The Mount,1809-02-12,male,1809.0
+Q1043,Carl_Linnaeus,human,Sweden,Latin,Råshult,1707-05-23,male,1707.0
+Q1048,Julius_Caesar,human,Italy,Latin,Rome,,male,
+Q1058,Narendra_Modi,human,India,English,Vadnagar,1950-09-17,male,1950.0
+Q1067,Dante_Alighieri,human,Italy,Italian,Florence,,male,
+Q1124,Bill_Clinton,human,United States of America,English,Hope,1946-08-19,male,1946.0
+Q1189,Usain_Bolt,human,Jamaica,English,Sherwood Content,1986-08-21,male,1986.0
+Q1254,Kofi_Annan,human,Ghana,English,Kumasi,1938-04-08,male,1938.0
+Q1253,Ban_Ki-moon,human,South Korea,English,Eumseong County,1944-06-13,male,1944.0
+Q1268,Fr%C3%A9d%C3%A9ric_Chopin,human,France,French,Żelazowa Wola,1810-03-01,male,1810.0
+Q1290,Blaise_Pascal,human,France,Latin,birth house of Blaise Pascal,,male,
+Q1316,Saddam_Hussein,human,Iraq,Arabic,Al-Awja,1937-04-28,male,1937.0
+Q1317,Osama_bin_Laden,human,Saudi Arabia,English,Riyadh,1957-03-10,male,1957.0
+Q1339,Johann_Sebastian_Bach,human,Germany,German,Eisenach,,male,
+Q1394,Vladimir_Lenin,human,Soviet Union,Russian,Ulyanovsk,,male,
+Q1398,Virgil,human,Italy,Latin,Andes,,male,
+Q1405,Augustus,human,Italy,Latin,Rome,,male,
+Q1426,Roger_Federer,human,Switzerland,French,Basel,1981-08-08,male,1981.0
+Q1496,Ferdinand_Magellan,human,Portugal,Italian,Ponte da Barca,,male,
+Q1511,Richard_Wagner,human,Germany,German,Leipzig,1813-05-22,male,1813.0
+Q1744,Madonna,human,United States of America,English,Bay City,1958-08-16,female,1958.0
+Q1779,Louis_Armstrong,human,United States of America,English,New Orleans,1901-08-04,male,1901.0
+Q2494,Pope_Benedict_XVI,human,Germany,German,Birth house of Benedict XVI,1927-04-16,male,1927.0
+Q2685,Arnold_Schwarzenegger,human,Austria,German,Thal,1947-07-30,male,1947.0
+Q2831,Michael_Jackson,human,United States of America,English,Gary,1958-08-29,male,1958.0
+Q3044,Charlemagne,human,France,Latin,Francia,,male,
+Q4604,Confucius,human,Luxemburg,Chinese,Qufu,,male,
+Q4616,Marilyn_Monroe,human,United States of America,English,Los Angeles,1926-06-01,female,1926.0
+Q5152,Mustafa_Kemal_Atat%C3%BCrk,human,Turkey,Turkish,Thessaloniki,,male,
+Q5284,Bill_Gates,human,United States of America,English,Seattle,1955-10-28,male,1955.0
+Q5383,David_Bowie,human,United Kingdom,English,Brixton,1947-01-08,male,1947.0
+Q5577,Salvador_Dal%C3%AD,human,Spain,English,Figueres,1904-05-11,male,1904.0
+Q5582,Vincent_van_Gogh,human,The Netherlands,Dutch,Zundert,1853-03-30,male,1853.0
+Q5586,Hokusai,human,Japan,Japanese,Honjo,1760-10-31,male,1760.0
+Q5588,Frida_Kahlo,human,Mexico,Spanish,Coyoacán,1907-07-06,female,1907.0
+Q5589,Henri_Matisse,human,France,French,Le Cateau-Cambrésis,1869-12-31,male,1869.0
+Q5592,Michelangelo,human,Italy,Italian,Caprese Michelangelo,,male,
+Q5593,Pablo_Picasso,human,Spain,Catalan,Málaga,1881-10-25,male,1881.0
+Q5598,Rembrandt,human,The Netherlands,Dutch,Leiden,,male,
+Q5597,Raphael,human,Germany,Italian,Urbino,,male,
+Q5608,Eminem,human,United States of America,English,St. Joseph,1972-10-17,male,1972.0
+Q5670,Abu_Nuwas,human,Abbasid Caliphate,Arabic,Ahvaz,,male,
+Q5673,Hans_Christian_Andersen,human,Denmark,Danish,Odense,1805-04-02,male,1805.0
+Q5676,Matsuo_Bash%C5%8D,human,Japan,Japanese,Bashō's birth house,,male,
+Q5812,Novak_Djokovic,human,Yugoslavia,English,Belgrade,1987-05-22,male,1987.0
+Q5816,Mao_Zedong,human,China,Chinese,Shaoshan,1893-12-26,male,1893.0
+Q5878,Gabriel_Garc%C3%ADa_M%C3%A1rquez,human,Colombia,Spanish,Aracataca,1927-03-06,male,1927.0
+Q5879,Johann_Wolfgang_von_Goethe,human,Germany,German,Frankfurt,1749-08-28,male,1749.0
+Q6101,Marco_Polo,human,Italy,Italian,Venice,,male,
+Q6279,Joe_Biden,human,United States of America,English,Scranton,1942-11-20,male,1942.0
+Q6294,Hillary_Clinton,human,United States of America,English,Edgewater Hospital,1947-10-26,female,1947.0
+Q6722,Carl_Friedrich_Gauss,human,Germany,Latin,Brunswick,1777-04-30,male,1777.0
+Q7071,Li_Bai,human,China,Chinese,Suyab,,male,
+Q7085,Niels_Bohr,human,Denmark,English,Copenhagen,1885-10-07,male,1885.0
+Q7186,Marie_Curie,human,France,Russian,Warsaw,1867-11-07,female,1867.0
+Q7192,Qin_Shi_Huang,human,China,Chinese,Handan,,male,
+Q7207,Elizabeth_I,human,United Kingdom,English,Palace of Placentia,,female,
+Q7226,Joan_of_Arc,human,France,French,Domrémy-la-Pucelle,,female,
+Q7235,Sophocles,human,Grece,Ancient Greek,Colonus,,male,
+Q7243,Leo_Tolstoy,human,Russia,Russian,Yasnaya Polyana,,male,
+Q7251,Alan_Turing,human,United Kingdom,English,Maida Vale,1912-06-23,male,1912.0
+Q7259,Ada_Lovelace,human,United Kingdom,English,London,1815-12-10,female,1815.0
+Q7322,Christopher_Columbus,human,Italy,Spanish,Genoa,,male,
+Q7321,Jacques_Cartier,human,France,French,Saint-Malo,,male,
+Q7324,James_Cook,human,United Kingdom,English,Marton,1728-10-27,male,1728.0
+Q7331,Ibn_Battuta,human,Morocco,Arabic,Tangier,,male,
+Q7416,Margaret_Thatcher,human,United Kingdom,English,Grantham,1925-10-13,female,1925.0
+Q7604,Leonhard_Euler,human,Switzerland,Latin,Basel,1707-04-15,male,1707.0
+Q7747,Vladimir_Putin,human,Russia,Russian,Saint Petersburg,1952-10-07,male,1952.0
+Q8011,Avicenna,human,Iran,Arabic,Afshona,,male,
+Q8018,Augustine_of_Hippo,human,Italy,Latin,Thagaste,,male,
+Q8016,Winston_Churchill,human,United Kingdom,English,Blenheim Palace,1874-11-30,male,1874.0
+Q8023,Nelson_Mandela,human,South Africa,English,Mvezo,1918-07-18,male,1918.0
+Q8027,Martin_Luther_King_Jr.,human,United States of America,English,Atlanta,1929-01-15,male,1929.0
+Q8409,Alexander_the_Great,human,Macedonia,Ancient Greek,Pella,,male,
+Q8423,Cyrus_the_Great,human,Iran,Persian,Anshan Persia,,male,
+Q8467,Umar,human,Rashidun Caliphate,Arabic,Mecca,,male,
+Q8474,Suleiman_the_Magnificent,human,Ottoman Empire,Turkish,Trabzon,,male,
+Q8573,Sun_Yat-sen,human,China,English,Cuiheng,1866-11-12,male,1866.0
+Q8589,Ashoka,human,India,Prakrit,Patna,,male,
+Q8605,Sim%C3%B3n_Bol%C3%ADvar,human,Spain,Spanish,Caracas,1783-07-24,male,1783.0
+Q8620,Kwame_Nkrumah,human,Ghana,Akan,Nkroful,1909-09-21,male,1909.0
+Q8739,Archimedes,human,Italy,Ancient Greek,ancient Syracuse,,male,
+Q8743,Thomas_Edison,human,United States of America,English,Milan,1847-02-11,male,1847.0
+Q8747,Euclid,human,Grece,Ancient Greek,,,male,
+Q8963,Johannes_Kepler,human,Germany,Latin,Weil der Stadt,,male,
+Q9038,Al-Khwarizmi,human,Iran,Persian,Khwarezm,,male,
+Q9036,Nikola_Tesla,human,Austria,English,Smiljan,1856-07-10,male,1856.0
+Q9047,Gottfried_Wilhelm_Leibniz,human,Germany,Latin,Leipzig,,male,
+Q9061,Karl_Marx,human,Germany,German,Trier,1818-05-05,male,1818.0
+Q9068,Voltaire,human,France,French,Paris,1694-11-21,male,1694.0
+Q9106,Dmitri_Mendeleev,human,Russia,Russian,Tobolsk,,male,
+Q9191,Ren%C3%A9_Descartes,human,France,Latin,Descartes,,male,
+Q9215,Sigmund_Freud,human,Austria,German,Příbor,1856-05-06,male,1856.0
+Q9294,Ibn_Khaldun,human,Tunisia,Arabic,Tunis,,male,
+Q9312,Immanuel_Kant,human,Germany,German,Königsberg,1724-04-22,male,1724.0
+Q9333,Laozi,human whose existence is disputed,China,Chinese,Chu,,male,
+Q9353,John_Locke,human,United Kingdom,English,Wrington,,male,
+Q9358,Friedrich_Nietzsche,human,Germany,German,Röcken,1844-10-15,male,1844.0
+Q9381,Adam_Smith,human,United Kingdom,English,Kirkcaldy,,male,
+Q9387,Max_Weber,human,Germany,German,Erfurt,1864-04-21,male,1864.0
+Q9438,Thomas_Aquinas,human,Italy,Latin,Roccasecca,,male,
+Q9439,Queen_Victoria,human,United Kingdom,English,Kensington Palace,1819-05-24,female,1819.0
+Q9441,The_Buddha,human,India,Magadhi Prakrit,Lumbini,,male,
+Q9458,Muhammad,human,Saudi Arabia,Arabic,Mecca,,male,
+Q9535,Shah_Rukh_Khan,human,India,,New Delhi,1965-11-02,male,1965.0
+Q9546,Al-Ghazali,human,Seljuk Empire,Persian,Tus,,male,
+Q9545,Tony_Blair,human,United Kingdom,English,Edinburgh,1953-05-06,male,1953.0
+Q9682,Elizabeth_II,human,United Kingdom,English,Mayfair,1926-04-21,female,1926.0
+Q9696,John_F._Kennedy,human,United States of America,English,Brookline,1917-05-29,male,1917.0
+Q9960,Ronald_Reagan,human,United States of America,English,Tampico,1911-02-06,male,1911.0
+Q10132,Rafael_Nadal,human,Spain,Spanish,Manacor,1986-06-03,male,1986.0
+Q10261,Pythagoras,human,Grece,Ancient Greek,Samos,,male,
+Q10390,John_McCain,human,United States of America,English,Coco Solo,1936-08-29,male,1936.0
+Q10665,Kim_Jong_Il,human,North Korea,Korean,Vyatskoye,1941-02-16,male,1941.0
+Q10707,Robert_Mugabe,human,Zimbabwe,Shona,Kutama,1924-02-21,male,1924.0
+Q10738,Dwayne_Johnson,human,Canada,English,Hayward,1972-05-02,male,1972.0
+Q11571,Cristiano_Ronaldo,human,Portugal,Portuguese,Funchal,1985-02-05,male,1985.0
+Q11613,Harry_S._Truman,human,United States of America,English,Lamar,1884-05-08,male,1884.0
+Q11806,John_Adams,human,United States of America,English,Braintree,,male,
+Q11815,James_Monroe,human,United States of America,English,Monroe Hall,1758-04-28,male,1758.0
+Q11812,Thomas_Jefferson,human,United States of America,English,Shadwell,,male,
+Q11813,James_Madison,human,United States of America,English,Port Conway,1751-03-16,male,1751.0
+Q11816,John_Quincy_Adams,human,United States of America,English,Braintree,1767-07-11,male,1767.0
+Q11817,Andrew_Jackson,human,United States of America,English,Waxhaws,1767-03-15,male,1767.0
+Q11869,William_Henry_Harrison,human,United States of America,English,Charles City County,1773-02-09,male,1773.0
+Q11891,James_K._Polk,human,United States of America,English,Pineville,1795-11-02,male,1795.0
+Q11896,Zachary_Taylor,human,United States of America,English,Barboursville,1784-11-24,male,1784.0
+Q11975,Britney_Spears,human,United States of America,English,McComb,1981-12-02,female,1981.0
+Q12897,Pel%C3%A9,human,Brazil,Portuguese,Três Corações,1940-10-23,male,1940.0
+Q13909,Angelina_Jolie,human,United States of America,English,Los Angeles,1975-06-04,female,1975.0
+Q15031,Xi_Jinping,human,China,Chinese,Beijing,1953-06-15,male,1953.0
+Q15029,Hu_Jintao,human,China,Chinese,Jiangyan District,1942-12-21,male,1942.0
+Q15935,Kanye_West,human,United States of America,English,Atlanta,1977-06-08,male,1977.0
+Q16397,Bruce_Lee,human,British Hong Kong,Yue Chinese,San Francisco Chinese Hospital,1940-11-27,male,1940.0
+Q16574,Chiang_Kai-shek,human,China,Chinese,Xikou,1887-10-31,male,1887.0
+Q17515,Diego_Maradona,human,Argentina,Italian,Lanús,1960-10-30,male,1960.0
+Q17714,Stephen_Hawking,human,United Kingdom,English,Oxford,1942-01-08,male,1942.0
+Q19837,Steve_Jobs,human,United States of America,English,San Francisco,1955-02-24,male,1955.0
+Q19848,Lady_Gaga,human,United States of America,English,Lenox Hill Hospital,1986-03-28,female,1986.0
+Q19878,Muammar_Gaddafi,human,Libya,Arabic,Qasr Abu Hadi,,male,
+Q22686,Donald_Trump,human,United States of America,English,Jamaica Hospital Medical Center,1946-06-14,male,1946.0
+Q23215,Adele,human,United Kingdom,English,Tottenham,1988-05-05,female,1988.0
+Q23543,Selena,human,United States of America,English,Lake Jackson,1971-04-16,female,1971.0
+Q23760,Rowan_Atkinson,human,United Kingdom,English,Consett,1955-01-06,male,1955.0
+Q26517,Luis_Su%C3%A1rez,human,Uruguay,Spanish,Salto,1987-01-24,male,1987.0
+Q26876,Taylor_Swift,human,United States of America,English,West Reading,1989-12-13,female,1989.0
+Q30547,Mother_Teresa,human,Albania,Albanian,Skopje,1910-08-26,female,1910.0
+Q32732,Malala_Yousafzai,human,Pakistan,English,Mingora,1997-07-12,female,1997.0
+Q34105,Hosni_Mubarak,human,Egypt,Arabic,Kafr el-Muṣīlḥa,1928-05-04,male,1928.0
+Q34189,Pablo_Neruda,human,Chile,Spanish,Parral,1904-07-12,male,1904.0
+Q34389,Whitney_Houston,human,United States of America,English,Newark,1963-08-09,female,1963.0
+Q34413,Benazir_Bhutto,human,Pakistan,Urdu,Karachi,1953-06-21,female,1953.0
+Q34424,Shakira,human,Spain,Spanish,Barranquilla,1977-02-02,female,1977.0
+Q34436,Scarlett_Johansson,human,United States of America,English,Manhattan,1984-11-22,female,1984.0
+Q34597,James_A._Garfield,human,United States of America,English,Moreland Hills,1831-11-19,male,1831.0
+Q34660,J._K._Rowling,human,United Kingdom,English,Yate,1965-07-31,female,1965.0
+Q35064,Agatha_Christie,human,United Kingdom,English,Ashfield,1890-09-15,female,1890.0
+Q35811,Zoroaster,human,Iran,Avestan,Ray,,male,
+Q36107,Muhammad_Ali,human,United States of America,English,Louisville,1942-01-17,male,1942.0
+Q36153,Beyonc%C3%A9,human,United States of America,English,Houston,1981-09-04,female,1981.0
+Q36215,Mark_Zuckerberg,human,United States of America,Chinese,White Plains,1984-05-14,male,1984.0
+Q36303,Thales_of_Miletus,human,Grece,Ancient Greek,Miletus,,male,
+Q36359,Hammurabi,human,Babylonia,Akkadian,Babylonia,,male,
+Q36724,Attila,human,Hunnic Empire,,Caucasus,,male,
+Q36844,Rihanna,human,Barbados,English,Saint Michael,1988-02-20,female,1988.0
+Q36970,Jackie_Chan,human,United States of America,English,Victoria Peak,1954-04-07,male,1954.0
+Q37731,Uthman,human,Saudi Arabia,Arabic,Mecca,,male,
+Q37979,Akihito,human,Japan,Japanese,Tokyo Imperial Palace,1933-12-23,male,1933.0
+Q38203,Helen_Keller,human,United States of America,English,Tuscumbia,1880-06-27,female,1880.0
+Q38823,Ruhollah_Khomeini,human,Iran,Persian,Khomein,1900-05-17,male,1900.0
+Q39259,Recep_Tayyip_Erdo%C4%9Fan,human,Turkey,Turkish,Kasımpaşa,1954-02-26,male,1954.0
+Q39476,Emma_Watson,human,United Kingdom,English,Le Marais,1990-04-15,female,1990.0
+Q39524,Gamal_Abdel_Nasser,human,Egypt,Arabic,Alexandria,1918-01-15,male,1918.0
+Q39619,Ali,human,Rashidun Caliphate,Arabic,Mecca,,male,
+Q40026,Sylvester_Stallone,human,United States of America,English,Hell's Kitchen,1946-07-06,male,1946.0
+Q40715,Jennifer_Lopez,human,United States of America,English,The Bronx,1969-07-24,female,1969.0
+Q41117,Kim_Il_Sung,human,North Korea,Korean,Mangyongdae District,1912-04-15,male,1912.0
+Q41585,David_Hilbert,human,Germany,German,Kaliningrad,1862-01-23,male,1862.0
+Q43033,Desmond_Tutu,human,South Africa,English,Munsieville,1931-10-07,male,1931.0
+Q43203,Clint_Eastwood,human,United States of America,English,San Francisco,1930-05-31,male,1930.0
+Q43274,Charles_III,human,United Kingdom,English,Buckingham Palace,1948-11-14,male,1948.0
+Q43303,Malcolm_X,human,United States of America,English,Omaha,1925-05-19,male,1925.0
+Q43416,Keanu_Reeves,human,Canada,English,Beirut,1964-09-02,male,1964.0
+Q43723,Benjamin_Netanyahu,human,Israel,English,Tel Aviv,1949-10-21,male,1949.0
+Q43729,Andr%C3%A9s_Iniesta,human,Spain,Spanish,Albacete,1984-05-11,male,1984.0
+Q44437,John_Cena,human,United States of America,English,West Newbury,1977-04-23,male,1977.0
+Q46633,Charles_Babbage,human,United Kingdom,English,London,1791-12-26,male,1791.0
+Q47059,Aishwarya_Rai_Bachchan,human,India,Hindi,Mangaluru,1973-11-01,female,1973.0
+Q47213,Warren_Buffett,human,United States of America,English,Omaha,1930-08-30,male,1930.0
+Q54314,Chris_Hemsworth,human,Australia,English,Melbourne,1983-08-11,male,1983.0
+Q56226,Kim_Jong_Un,human,North Korea,Korean,Pyongyang,1984-01-08,male,1984.0
+Q57282,Jacob_Zuma,human,South Africa,English,Nkandla,1942-04-12,male,1942.0
+Q57327,Hassanal_Bolkiah,human,Brunei,,Bandar Seri Begawan,1946-07-15,male,1946.0
+Q57336,Ali_Khamenei,human,Iran,Persian,Mashhad,1939-04-19,male,1939.0
